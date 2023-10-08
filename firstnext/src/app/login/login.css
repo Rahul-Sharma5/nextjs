@@ -1,0 +1,24 @@
+.login-manu{
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.login-manu li {
+    margin-left: 25px;
+    list-style: none;
+}
+
+.login-manu li a {
+    text-decoration: none;
+}
+
+.login-manu h4{
+    margin: 0;
+}
+
+.heading{
+    color: rgb(255, 119, 0);
+    text-align: center;
+    margin-top: 50px;
+}

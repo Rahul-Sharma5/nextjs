@@ -1,0 +1,1 @@
+console.log("Hello Common JavaScript File")
